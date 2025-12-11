@@ -161,7 +161,7 @@ export function Header() {
                 Documentation
               </Link>
               <Link
-                href="/auth/login"
+                href="/login"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 <Button className="w-full bg-linear-to-r from-brand-teal to-brand-sky hover:from-brand-teal/90 hover:to-brand-sky/90 text-white rounded-full">
